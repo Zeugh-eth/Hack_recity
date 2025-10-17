@@ -1,5 +1,5 @@
 # Governança Onchain para Moedas Sociais  
-Hackathon Submission — Texto em Markdown  
+Hackathon Submission
 
 ## 1. Resumo  
 O projeto cria um modelo de governança onchain para moedas sociais locais. Ele permite que cidadãos e bancos comunitários decidam juntos, de forma transparente e segura, sobre as regras de suas moedas no ambiente blockchain.  
